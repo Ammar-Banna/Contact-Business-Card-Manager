@@ -3,11 +3,11 @@
 A desktop application dedicated to searching and managing contacts. Developed using Python and the PyQt6 framework, it relies on an Excel file as a flexible and easily updatable database.
 
 # 📌 Features
-*Quick Search: Instant filtering by name or phone number.
-*Flexible Database: The Excel file (`Phone directory.xlsx`) located in the `data` folder serves as the database. You can open it to edit or add names at any time, and the application will update instantly without requiring any code modifications.
-*Interactive Cards: Displays contact information in a professionally designed digital business card.
-*Direct Integration: Open WhatsApp chats or send an email with a single click.
-*Export & Share: Save the card as an image (PNG) or PDF (A4 or business card size), with direct copying and sharing capabilities.
+* Quick Search: Instant filtering by name or phone number.
+* Flexible Database: The Excel file (`Phone directory.xlsx`) located in the `data` folder serves as the database. You can open it to edit or add names at any time, and the application will update instantly without requiring any code modifications.
+* Interactive Cards: Displays contact information in a professionally designed digital business card.
+* Direct Integration: Open WhatsApp chats or send an email with a single click.
+* Export & Share: Save the card as an image (PNG) or PDF (A4 or business card size), with direct copying and sharing capabilities.
 
 # 📂 Project Structure (For Developers)
 
