@@ -13,13 +13,13 @@ A desktop application dedicated to searching and managing contacts. Developed us
 
 The project is structured professionally to facilitate reading and development:
 
-*`main.py`: The entry point to run the application.
-*`src/`: The main source code folder, containing:
-  *`ui/`: User interface files (main window and business card dialog).
-  *`core/`: Background operations and data processing (e.g., reading Excel in the background).
-  *`utils/`: Helper functions.
-*`data/`: Contains the database (the directly editable `Phone directory.xlsx` file).
-*`assets/`: Contains static resources like icons and fonts.
+* `main.py`: The entry point to run the application.
+* `src/`: The main source code folder, containing:
+  * `ui/`: User interface files (main window and business card dialog).
+  * `core/`: Background operations and data processing (e.g., reading Excel in the background).
+  * `utils/`: Helper functions.
+* `data/`: Contains the database (the directly editable `Phone directory.xlsx` file).
+* `assets/`: Contains static resources like icons and fonts.
 
 # ⚙️ Requirements (Development Environment)
 To run the source code, ensure the following libraries are installed via `pip`:
